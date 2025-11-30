@@ -84,7 +84,7 @@ Used to clean and preprocess review text before feeding it into the models.
 
 ---
 
-# 🧠 Project Overview
+#  Project Overview
 
 This thesis investigates how different text embedding strategies affect the performance of downstream recommendation tasks.
 
